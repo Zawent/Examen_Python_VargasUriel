@@ -1,0 +1,29 @@
+{
+    "1231": {
+        "nombre": "Uriel",
+        "direccion": "no",
+        "telefono": 0,
+        "plan": {
+            "id": 2,
+            "nombre": "Plan Plata"
+        }
+    },
+    "1": {
+        "nombre": "a",
+        "direccion": "e",
+        "telefono": 1,
+        "plan": {
+            "id": 1,
+            "nombre": "Plan Bronce"
+        }
+    },
+    "1111": {
+        "nombre": "aa",
+        "direccion": "ee",
+        "telefono": 2222,
+        "plan": {
+            "id": 2,
+            "nombre": "Plan Plata"
+        }
+    }
+}

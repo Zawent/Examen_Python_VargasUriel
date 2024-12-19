@@ -1,0 +1,14 @@
+{
+    "1": {
+        "nombre": "Plan Bronce",
+        "precio": 20000
+    },
+    "2": {
+        "nombre": "Plan Plata",
+        "precio": 30000
+    },
+    "3": {
+        "nombre": "Plan Oro",
+        "precio": 40000
+    }
+}
