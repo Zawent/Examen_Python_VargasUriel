@@ -13,7 +13,6 @@ if __name__ == '__main__':
         opt1 = int(input(':)'))
         match opt1:
             case 1:
-                #Muestra menu para logueo de Usuarios
                 while(True):
                     os.system('clear')
                     print(menus.logUser)
@@ -27,7 +26,6 @@ if __name__ == '__main__':
                             input('Digite una opcion valida...')
                             os.system('clear')
             case 2:
-                #Muestra menu para logueo de Administradores
                 while(True):
                     os.system('clear')
                     print(menus.logAdmin)
@@ -44,6 +42,8 @@ if __name__ == '__main__':
                                             clientes.crearCliente(clientes.clientesInfo)
                                         case 2:
                                             clientes.eliminarCliente(clientes.clientesInfo)
+                                        case 3: 
+                                            clientes.editarCliente(clientes.clientesInfo)
                         case 2:
                             break
                         case _:

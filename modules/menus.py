@@ -41,8 +41,9 @@ optAdmin = """
 *                                  *
 *      1. Crear usuario            *
 *      2. Eliminar usuario         *
-*      3. Crear plan               *
-*      4. Salir                    *
+*      3. Editar usuario           *
+*      4. Crear plan               *
+*      5. Salir                    *
 *                                  *
 ************************************
 """

@@ -1,6 +1,6 @@
 {
     "1231": {
-        "nombre": "Uriel",
+        "nombre": "Fabian",
         "direccion": "no",
         "telefono": 0,
         "plan": {
@@ -8,19 +8,10 @@
             "nombre": "Plan Plata"
         }
     },
-    "1": {
-        "nombre": "a",
-        "direccion": "e",
-        "telefono": 1,
-        "plan": {
-            "id": 1,
-            "nombre": "Plan Bronce"
-        }
-    },
-    "1111": {
-        "nombre": "aa",
-        "direccion": "ee",
-        "telefono": 2222,
+    "1099": {
+        "nombre": "Delia",
+        "direccion": "si",
+        "telefono": 121,
         "plan": {
             "id": 2,
             "nombre": "Plan Plata"
